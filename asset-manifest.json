@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robocards/static/css/main.a618ca8a.css",
+    "main.js": "/robocards/static/js/main.7e36a2dd.js",
+    "static/media/SEGA.woff": "/robocards/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robocards/index.html",
+    "main.a618ca8a.css.map": "/robocards/static/css/main.a618ca8a.css.map",
+    "main.7e36a2dd.js.map": "/robocards/static/js/main.7e36a2dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a618ca8a.css",
+    "static/js/main.7e36a2dd.js"
+  ]
+}
